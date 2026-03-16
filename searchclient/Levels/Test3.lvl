@@ -1,0 +1,30 @@
+#domain
+hospital
+#levelname
+New level
+#colors
+cyan: B,0
+blue: A,1
+#initial
++++++++++
++  + BA +
++ ++ 01 +
++ +     +
++ +     +
++ +     +
++ +     +
++ +     +
++       +
++++++++++
+#goal
++++++++++
++BA+    +
++ ++    +
++ +     +
++ +     +
++ +     +
++ +     +
++ +     +
++       +
++++++++++
+#end
